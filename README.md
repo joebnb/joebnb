@@ -18,7 +18,7 @@ Hi there, I'm Joe Chen! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulianaOnofrio)](https://github.com/joebnb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaonofrio/)](https://www.linkedin.com/in/joebnb/)
-[![WeChat Badge](https://img.shields.io/badge/-WeChat-joebnb?style=flat-square&color=green&logo=wechat&logoColor=white&link=am9lYm5i%3D%3D)](am9lYm5i%3D%3D)
+[![WeChat Badge](https://img.shields.io/badge/-WeChat-joebnb?style=flat-square&color=green&logo=wechat&logoColor=white&link=https://www.google.com/search?q=am9lYm5i%3D%3D)](https://www.google.com/search?q=am9lYm5i%3D%3D)
 <br />
 
 a front-end web developer from China.
