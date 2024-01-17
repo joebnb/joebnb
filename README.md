@@ -21,6 +21,5 @@ Hi there, I'm Joe Chen! 👋
 [![WeChat Badge](https://img.shields.io/badge/-WeChat-joebnb?style=flat-square&color=green&logo=wechat&logoColor=white&link=https://www.google.com/search?q=am9lYm5i%3D%3D)](https://www.google.com/search?q=am9lYm5i%3D%3D)
 <br />
 
-a front-end web developer from China.
 
 ![](https://github-readme-stats.vercel.app/api?username=joebnb)
