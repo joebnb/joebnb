@@ -20,6 +20,3 @@ Hi there, I'm Joe Chen! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaonofrio/)](https://www.linkedin.com/in/joebnb/)
 [![WeChat Badge](https://img.shields.io/badge/-WeChat-joebnb?style=flat-square&color=green&logo=wechat&logoColor=white&link=https://www.google.com/search?q=am9lYm5i%3D%3D)](https://www.google.com/search?q=am9lYm5i%3D%3D)
 <br />
-
-
-![](https://github-readme-stats.vercel.app/api?username=joebnb)
